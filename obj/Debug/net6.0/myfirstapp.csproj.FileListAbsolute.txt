@@ -1,0 +1,15 @@
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\bin\Debug\net6.0\myfirstapp.exe
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\bin\Debug\net6.0\myfirstapp.deps.json
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\bin\Debug\net6.0\myfirstapp.runtimeconfig.json
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\bin\Debug\net6.0\myfirstapp.dll
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\bin\Debug\net6.0\myfirstapp.pdb
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.AssemblyReference.cache
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfoInputs.cache
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfo.cs
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.CoreCompileInputs.cache
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.dll
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\ref\myfirstapp.dll
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.pdb
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\myfirstapp.genruntimeconfig.cache
+D:\Programming\C# Projects\VSC\projectsc#\myfirstapp\obj\Debug\net6.0\refint\myfirstapp.dll
