@@ -38,6 +38,7 @@ namespace myfirstapp
             WriteLine(String.Format("{0,-10} | {1,-10} | {2,5}", "Johnny", "Depp", 44));
             WriteLine("-------------------------------");*/
 
+            /* //First method, simple method
             for (int i = 1; i <= 100; i++)
             {
                 if (i % 3 == 0 && i % 5 == 0)
@@ -55,6 +56,26 @@ namespace myfirstapp
                 else
                 {
                     WriteLine(i);
+                }
+            }*/
+            //second method separated by commas
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 3 == 0 && i % 5 == 0)
+                {
+                    Write("FizzBuzz,");
+                }
+                if (i % 3 == 0)
+                {
+                    Write("Fizz,");
+                }
+                if (i % 5 == 0)
+                {
+                    Write("Buzz,");
+                }
+                else
+                {
+                    Write($"{i},");
                 }
             }
 
